@@ -1,0 +1,27 @@
+body{
+    background-image: url(../IMG/Las-10-imagenes-mas-iconicas-de-Breaking-Bad.jpg);
+    background-repeat: no-repeat;
+}
+.fondo{
+    background-image: url(../IMG/fondo3.png);
+    background-repeat: no-repeat;
+}
+.fondo2{
+    background-image: url(../IMG/fondo2.png);
+    background-repeat: no-repeat;
+}
+.card1{
+    background-color: rgb(238, 238, 146);
+}
+.card2{
+    background-color: rgb(82, 174, 211);
+}
+.card3{
+    background-color: rgb(148, 125, 106);
+}
+.cardcamino{
+    background-color: rgb(226, 214, 198);
+}
+.cardbcs{
+    background-color: rgb(177, 91, 91);
+}
